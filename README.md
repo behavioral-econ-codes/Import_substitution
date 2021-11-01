@@ -8,6 +8,6 @@
 
 4. print_results - графики итогов - категории импортозамещения, рейтинг отраслей. Файл данных: combined_branches_keywords.csv. Результат: RatingBranches.png
 
-В папках pie_charts и sankey_diagrams - диаграммы для всех отраслей
+    В папках pie_charts и sankey_diagrams - диаграммы для всех отраслей
 
 
